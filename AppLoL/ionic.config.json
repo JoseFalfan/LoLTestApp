@@ -1,0 +1,7 @@
+{
+  "name": "AppLoL",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
